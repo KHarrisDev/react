@@ -1,0 +1,24 @@
+/****************************************************************/
+/* BEM EXAMPLE */
+/****************************************************************/
+
+.app__title {
+    color: red;
+}
+
+.app__title--large {
+    font-size: 50px;
+}
+
+.app__title--small {
+    font-size: 10px;
+}
+
+/*
+.form { }
+.form--theme-xmas { }
+.form--simple { }
+.form__input { }
+.form__submit { }
+.form__submit--disabled { } 
+*/
