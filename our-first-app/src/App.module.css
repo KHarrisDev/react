@@ -1,0 +1,7 @@
+.error {
+    color: purple;
+}
+
+.variable__error {
+    color: var(--error-color);
+}

@@ -1,5 +1,9 @@
 * {
   margin: 0;
+
+  /* CSS VARIABLE */
+  /* Writing CSS variables in index.css will allow user to access this variable from any css file. See App.module.css*/
+  --error-color: orange;
 }
 
 body {
